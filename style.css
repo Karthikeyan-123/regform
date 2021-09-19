@@ -82,7 +82,7 @@ body{
 }
 .button-container input:hover{
   color: white;
-  background: linear-gradient(-125deg,rgb(121, 215, 241), pink);
+  background: violet;
 }
 
 @media (max-width:850px) {
